@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\Skelef.exe.config
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\Skelef.exe
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\Skelef.pdb
+C:\Users\user\source\repos\Skelef\Skelef\obj\Debug\Skelef.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Skelef\Skelef\obj\Debug\Skelef.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Skelef\Skelef\obj\Debug\Skelef.exe
+C:\Users\user\source\repos\Skelef\Skelef\obj\Debug\Skelef.pdb
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\uncompiled\Skelef\bin\Debug\Skelef.exe.config
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\uncompiled\Skelef\bin\Debug\Skelef.exe
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\uncompiled\Skelef\bin\Debug\Skelef.pdb
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\uncompiled\Skelef\obj\Debug\Skelef.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\uncompiled\Skelef\obj\Debug\Skelef.exe
+C:\Users\user\source\repos\Skelef\Skelef\bin\Debug\uncompiled\Skelef\obj\Debug\Skelef.pdb
