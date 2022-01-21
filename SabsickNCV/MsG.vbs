@@ -1,0 +1,1 @@
+x=msgbox("Still using this computer?", 0+16, "                              ? ")
