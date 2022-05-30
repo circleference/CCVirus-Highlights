@@ -1,7 +1,0 @@
-playsound==1.3.0
-pywin32==300
-pyscreenshot==3.0
-pygame==2.1.2
-pywin32-ctypes==0.2.0
-opencv-python==4.5.5.64
-numpy==1.22.4
